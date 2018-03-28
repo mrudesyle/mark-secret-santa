@@ -1,0 +1,344 @@
+/*DU Web Dev Bootcamp 2018
+  Diana Schiele, Sarah Gilbert, Mark Rubesyle, Natalya Garusova 
+  Project 1
+*/
+
+#logOut {
+  margin-left: 51%;
+  padding: 5px 15px;
+  background-color:  rgb(151, 190, 151);
+}
+
+#calendar{
+  margin-left: 17%;
+  margin-top: 0px;
+}
+
+body {
+  background-image: url(../images/christmas-colour.png)
+}
+
+.container{
+  border: 15px solid rgb(151, 190, 151);
+  border-style: dashed; 
+}
+
+
+
+#header{
+  font-family: 'Tangerine', cursive;
+  font-weight: bold;
+  font-size: 90px;
+  text-align: center;
+  color: rgb(31, 97, 75); 
+}
+
+
+
+
+
+.daysLeftP {
+  font-family: Tangerine, cursive;
+  font-weight: bold;
+  font-size: 90px;
+  text-align: center;
+  color: rgb(31, 97, 75);
+}
+
+
+
+#days {
+  text-align: center;
+  font-size: 25px;
+  color: rgb(31, 97, 75); 
+}
+
+#tree {
+  color:  rgb(31, 97, 75); 
+  margin-left: 50%;
+  margin-top: 5px;
+}
+
+#daysToGo {
+  font-size: 40px;
+}
+
+#buttons{
+  margin-top: 10px;
+  margin-left: 18%;
+  }
+
+  .ParticipantField{
+    background-color: white;
+    padding:20px 0px 20px 20%;
+  }
+
+  .participantHead{
+    color: rgb(31, 97, 75);
+}
+  
+
+.nameInput, .giftInput1, .giftInput2  {
+  margin-right: 10px;
+}
+
+
+.partyDeets {
+  margin-top: 20px;
+}
+
+#name {
+  margin-top: 7px;
+}
+
+.desiresI {
+  margin-bottom: 8px;
+}
+#gift3 {
+  margin-top: 7px;
+}
+
+
+#convert {
+  margin-top: 8px;
+}
+
+
+ #whereAt {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+#sendIt{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 52%;
+  font-size: 20px;
+}
+
+
+.panel-title {
+  font-size: 22px;
+  text-align: center;
+  margin-top: 0;
+  
+}
+
+h4{
+  font-size: 22px;
+}
+
+.budget{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+#viewPartyDeets{
+  margin:10px;
+  text-align: center;
+}
+
+#haveGroupBtn{
+  margin-left: 40%;
+  margin-bottom: 20px;
+}
+
+#haveGroupPanel{
+  width: 513px;
+  margin-left: 3px;
+  color: rgb(31, 97, 75); 
+  font-size: 20px;
+  margin-bottom: 120px;
+}
+
+aside {
+  font-size: 18px;
+}
+
+
+#sidebar {
+  position: absolute;
+  padding: 10px 10px 5px 10px;
+  right: 70px;
+  top: 577px; 
+}
+
+#sidebar{
+  border: 3px dashed green;
+  background-color: white;
+  border: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  color:  rgb(31, 97, 75);
+  margin: 20px 20px 50px 10px;
+  font-size: 20px;
+}
+
+#trivia {
+  margin-top: 7px;
+  width: 525px;
+  
+}
+
+#map{
+  height: 372px;
+  width: 465px;
+}
+
+#mapHead{
+  width: 525px;
+}
+
+.locationP{
+  text-align: center;
+}
+
+#location {
+  margin-top: 10px;
+  padding:20px;
+  width: 450px;
+}
+
+#locationSubmitBtn {
+  margin-left: 43%;
+}
+
+/* #images {
+  height: 240px;
+} */
+
+#images {
+  height:75%;
+}
+
+
+#buttons{
+  margin-top: 30px;
+  }
+
+#santaLtr {
+  font-size: 22px;
+}
+
+ #deets {
+  border: 3px dashed green;
+  background-color: white;
+  border: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  color:  rgb(31, 97, 75);
+  margin: 20px 20px 230px 10px;
+  font-size: 20px;
+  padding: 0px 10px 10px 10px;
+}
+
+#deetsSecondP {
+  border: 3px dashed green;
+  background-color: white;
+  border: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  color:  rgb(31, 97, 75);
+  margin: 20px 20px 220px 10px;
+  font-size: 20px;
+  padding: 18px 10px 10px 10px;
+  /* position: absolute; */
+}
+
+#yourGroup{
+  margin-top:30px;
+  width: 530px;
+  border-top: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  color:  rgb(31, 97, 75);
+}
+
+.buttonsAmazon {
+  margin-left: 23%;
+  margin-top: 10px;
+}
+ #buy2,
+ #buy3 {
+   margin-top: 10px;
+ } 
+
+#mssgs {
+  border: 3px dashed green;
+  background-color: white;
+  border: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  color:  rgb(31, 97, 75);
+  margin: 10px 20px 20px 0px;
+  font-size: 20px;
+}
+
+/* #updates {
+  font-size: 29px;
+  margin-left:45%;
+  margin-top: 20px;
+} */
+
+/* #alerts {
+  color: red;
+} */
+
+#santaLtr {
+  font-size: 20px;
+  line-height: 150%;
+}
+
+/* .notChangeDays{
+  margin-left: 30%;
+  margin-top: 10px;
+  color:rgb(219, 95, 95);
+} */
+
+.amazon {
+  margin: 2px 0;
+
+}
+
+#footer {
+  text-align: center;
+  font-size: 22px;
+  padding: 20px 0;
+  bottom: 0;
+}
+
+.jumbotron {
+  
+  margin-top: 30px;
+  border: 10px solid rgb(151, 190, 151);
+  border-style: dashed;
+  background-color: rgb(219, 95, 95);
+}
+
+
+
+
+                  /* Sticky footer styles
+              -------------------------------------------------- */
+              html {
+                position: relative;
+                min-height: 100%;
+                }
+                body {
+                /* Margin bottom by footer height */
+                margin-bottom: 0px;
+                
+                
+                }
+                .footer {
+                position: relative;
+                bottom: -30px;
+                width: 100%;
+                padding-top: 23px;
+                font-weight: bold;
+                font-size: 15px;
+               
+                /* Set the fixed height of the footer here */
+                height: 65px;
+                background-color: rgb(219, 95, 95);
+                color: rgb(31, 97, 75); 
+                }
+              

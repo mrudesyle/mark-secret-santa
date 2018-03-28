@@ -1,0 +1,179 @@
+/*DU Web Dev Bootcamp 2018 
+  Diana Schiele, Sarah Gilbert, Mark Rubesyle, Natalya Garusova
+  Project 1
+*/
+
+
+body{
+    background-image: url(../images/christmas-colour.png);
+   
+}
+
+.jumbotron {
+    background-color: rgb(219, 95, 95);
+    margin-top: 30px;
+}
+
+#logInBtnTop {
+    margin-left: 47%;
+    background-color: rgb(151, 190, 151);
+    padding: 5px 15px;
+}
+
+
+
+.daysLeftP {
+    font-family: Tangerine, cursive;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    color: rgb(31, 97, 75);
+}
+
+
+.clock {
+    margin-left: 17%;
+    margin-top: 0px;
+}
+
+#header{
+    font-family: 'Tangerine', cursive;
+    font-weight: bold;
+    font-size: 90px;
+    text-align: center;
+    color: rgb(31, 97, 75); 
+}
+
+#logInBtn {
+    margin-left: 47%;
+    margin-top: 7px;
+}
+
+h4 {
+    color: rgb(31, 97, 75); 
+}  
+
+#imgPanel {
+    padding-bottom: 40px;
+    height: 395px;
+}
+#images {
+    height: 75%;
+}
+
+#buttons{
+margin-top: 40px;
+}
+
+.jumbotron,
+.panel-body {
+    border: 10px solid rgb(151, 190, 151);
+    border-style: dashed;
+    padding-bottom: 30px;
+}
+
+
+.panel-body {
+    padding: 15px;
+}
+
+.container{
+    border: 15px solid rgb(151, 190, 151);
+    border-style: dashed; 
+}
+.panel-heading {
+    border-top: 10px solid rgb(163, 218, 163);
+    border-style: dashed;
+}
+#text-aboutGame {
+    height:361px;
+    overflow-y: scroll;
+    margin-bottom: 30px;
+   
+}
+
+.aboutGame {
+    font-size: 15.6px;
+}
+
+
+#user-container {
+    border: 10px solid rgb(151, 190, 151);
+    border-style: dashed;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+
+.form-group,
+th {
+    color: rgb(231, 117, 117)
+    
+}
+p{
+    color:  rgb(31, 97, 75);
+}
+
+#tree {
+    color:  rgb(31, 97, 75); 
+    margin-left: 49.5%;
+    margin-top: 20px;
+}
+
+.linkNotUser{
+    font-size: 18px;
+    color: rgb(180, 72, 72);
+}
+
+#options-container {
+    margin-bottom: 70px;
+     width: 90%; 
+    background-color:white;
+    margin-left: 5%;
+    border: 10px solid rgb(151, 190, 151);
+    border-style: dashed;
+    padding: 20px;
+    
+}
+.newGrRadio{
+    margin-left: 10px;
+}
+
+#keycode-submit-btn {
+    margin: 10px;
+}
+
+#data-container {
+    height: 1000px;
+    background-color: white;
+    padding: 20px;
+}
+
+
+                  /* Sticky footer styles
+              -------------------------------------------------- */
+              html {
+                position: relative;
+                min-height: 100%;
+                }
+                body {
+                /* Margin bottom by footer height */
+                margin-bottom: 0px;
+                
+                }
+                .footer {
+                position: absolute;
+                bottom: 0;
+                width: 94.7%;
+                
+                padding-top: 11px;
+                /* margin-top: 30px; */
+                /* Set the fixed height of the footer here */
+                height: 65px;
+                background-color: rgb(219, 95, 95);
+                color: rgb(31, 97, 75); 
+                margin-left: 16px;
+                /* margin-top: 50px; */
+               
+                }
+              
